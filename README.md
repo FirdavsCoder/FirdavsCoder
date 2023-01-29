@@ -5,4 +5,3 @@
 - 📫 How to reach me: +998 93 165 1884
 - 📫 Telegram: @Firdavs_Programmer
 
-
