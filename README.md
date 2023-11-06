@@ -1,4 +1,4 @@
-<a href="https://github.com/bultakov">
+<a href="https://github.com/FirdavsCoder">
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FirdavsCoder&theme=2077">
@@ -11,6 +11,6 @@
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Python programming language, Django framework and Ai
 - 💞️ I’m looking to collaborate on Python!
-- 📫 How to reach me: +998 93 165 1884
+- 📫 How to reach me: +998 93 748 77 50
 - 📫 Telegram: @Firdavs_Programmer
 
