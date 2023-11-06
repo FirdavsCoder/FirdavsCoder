@@ -2,7 +2,7 @@
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FirdavsCoder&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br><br>
         <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
     </p>
 </a> 
