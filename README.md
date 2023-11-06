@@ -1,3 +1,12 @@
+<a href="https://github.com/bultakov">
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FirdavsCoder&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br>
+        <img src="https://leetcode-stats-six.vercel.app/api?username=biiuz&theme=dark" alt="Jokes Card" />    
+    </p>
+</a> 
+
 - 👋 Hi, I’m @FirdavsCoder
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Python programming language, Django framework and Ai
