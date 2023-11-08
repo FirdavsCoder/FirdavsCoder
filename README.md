@@ -4,26 +4,26 @@
 </div>
 
 <div id="header" align="center">
-  <h1>ℍ𝕖𝕪 𝕀'𝕞 Firdavs Yorkulov </h1>
+  <h1>Hey I'm Firdavs Yorkulov </h1>
 </div>
 
 <div align="center">
-  <h2>𝕀‘𝕞 Python/NodeJs 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 👨‍💻 </h1>
+  <h2>I'm Python/NodeJs Developer 👨‍💻 </h1>
 </div>
 
 <div id="header" align="center">
 <div id="badges">
   <a href="https://t.me/Firdavs_Yorkulov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/firdavs_programmer">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@firdavsyorkulov7/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/SaidqodirxonUz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/firdavs-yorkulov-258581234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
