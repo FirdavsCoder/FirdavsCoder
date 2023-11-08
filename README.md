@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h2>I'm Python/NodeJs Developer 👨‍💻 </h1>
+  <h2>I'm Python/NodeJs Backend Developer 👨‍💻 </h1>
 </div>
 
 <div id="header" align="center">
