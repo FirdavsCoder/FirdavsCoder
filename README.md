@@ -42,6 +42,17 @@
     </p>
 
 
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,nodejs)](https://skillicons.dev)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=tokyonight_duo&hide_border=true)](https://github.com/FirdavsCoder/)
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
