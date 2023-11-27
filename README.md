@@ -48,7 +48,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=tokyonight_duo&hide_border=true)](https://github.com/FirdavsCoder/)
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
 
 
 
