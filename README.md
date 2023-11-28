@@ -9,7 +9,6 @@
 <div id="header" align="center">
   <h1>Hey I'm Firdavs Yorkulov </h1>
 </div>
-
 <div align="center">
   <h2>I'm Python/NodeJs Backend Developer 👨‍💻 </h1>
 </div>
