@@ -32,6 +32,7 @@
 </div>
 
 
+
 <br>
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
@@ -40,20 +41,17 @@
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </p>
 
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,nodejs)](https://skillicons.dev)
 
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=tokyonight_duo&hide_border=true)](https://github.com/FirdavsCoder/)
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </a> 
+
+
 
 
 - 👋 Hi, I’m @FirdavsCoder
