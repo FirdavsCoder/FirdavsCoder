@@ -50,12 +50,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=tokyonight_duo&hide_border=true)](https://github.com/FirdavsCoder/)
 
 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
 
 </a> 
 
@@ -65,4 +61,3 @@
 - 💞️ I’m looking to collaborate on Python!
 - 📫 How to reach me: +998 93 748 77 50
 - 📫 Telegram: @Firdavs_Programmer
-
