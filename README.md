@@ -5,15 +5,12 @@
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <div id="header" align="center">
   <h1>Hey I'm Firdavs Yorkulov </h1>
 </div>
-
 <div align="center">
   <h2>I'm Python/NodeJs Backend Developer 👨‍💻 </h1>
 </div>
-
 <div id="header" align="center">
 <div id="badges">
   <a href="https://t.me/Firdavs_Yorkulov">
@@ -30,9 +27,6 @@
   </a>
 </div>
 </div>
-
-
-
 <br>
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
@@ -40,7 +34,6 @@
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br><br>
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </p>
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,nodejs)](https://skillicons.dev)
 
