@@ -9,6 +9,7 @@
 </div>
 <div align="center">
   <h2>I'm Python/NodeJs Backend Developer 👨‍💻 </h1>
+
 </div>
 <div id="header" align="center">
 <div id="badges">
