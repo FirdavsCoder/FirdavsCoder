@@ -49,7 +49,6 @@
 
 
 
-
 - 👋 Hi, I’m @FirdavsCoder
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Python programming language, Django framework and Ai
