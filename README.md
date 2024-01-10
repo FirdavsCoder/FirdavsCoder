@@ -1,9 +1,7 @@
-
 <a href="https://github.com/FirdavsCoder">
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-  
 <div id="header" align="center">
   <h1>Hey I'm Firdavs Yorkulov </h1>
 </div>
