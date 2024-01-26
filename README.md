@@ -28,7 +28,7 @@
 <br>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=radical&hide_border=true"><br>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!--         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
     </p>
 
 ## 🏆 GitHub Trophies
