@@ -27,16 +27,9 @@
 
 <br>
     <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FirdavsCoder&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=radical&hide_border=true">
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </p>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=radical&hide_border=true">
-    </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FirdavsCoder&theme=tokyonight_duo&hide_border=true)](https://github.com/FirdavsCoder/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
